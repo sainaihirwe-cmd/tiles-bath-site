@@ -1,0 +1,194 @@
+[
+  {
+    "id": "ceramic-floor-40-beige",
+    "name": "Ceramic floor tile · Beige stone",
+    "spec": "40×40 cm · matt · 1.44 m² per box",
+    "description": "A warm stone-look floor tile for living rooms, corridors and shops.",
+    "price": "RWF 9,500",
+    "unit": "/ m²"
+  },
+  {
+    "id": "ceramic-wall-25x40-white",
+    "name": "Ceramic wall tile · Gloss white",
+    "spec": "25×40 cm · gloss · 1.5 m² per box",
+    "description": "Bright, easy-to-clean wall tile for bathrooms and kitchens.",
+    "price": "RWF 8,500",
+    "unit": "/ m²"
+  },
+  {
+    "id": "ceramic-wall-30x60-grey",
+    "name": "Ceramic wall tile · Grey linear",
+    "spec": "30×60 cm · satin · 1.44 m² per box",
+    "description": "A soft grey tile with a fine linear texture for feature walls.",
+    "price": "RWF 11,500",
+    "unit": "/ m²"
+  },
+  {
+    "id": "ceramic-outdoor-40-terracotta",
+    "name": "Outdoor anti-slip tile · Terracotta",
+    "spec": "40×40 cm · R11 anti-slip · 1.6 m² per box",
+    "description": "Slip-resistant tile for terraces, steps and car ports.",
+    "price": "RWF 10,500",
+    "unit": "/ m²"
+  },
+  {
+    "id": "porcelain-60-carrara",
+    "name": "Porcelain tile · Carrara white",
+    "spec": "60×60 cm · polished · 1.44 m² per box",
+    "description": "Marble-look polished porcelain with grey veining.",
+    "price": "RWF 22,000",
+    "unit": "/ m²"
+  },
+  {
+    "id": "porcelain-20x120-oak",
+    "name": "Porcelain plank · Natural oak",
+    "spec": "20×120 cm · wood-look · 1.44 m² per box",
+    "description": "The look of oak floorboards with the strength of porcelain.",
+    "price": "RWF 24,000",
+    "unit": "/ m²"
+  },
+  {
+    "id": "porcelain-60-anthracite",
+    "name": "Porcelain tile · Anthracite matt",
+    "spec": "60×60 cm · matt · 1.44 m² per box",
+    "description": "Deep charcoal tile for modern floors and commercial spaces.",
+    "price": "RWF 19,500",
+    "unit": "/ m²"
+  },
+  {
+    "id": "porcelain-80-travertine",
+    "name": "Porcelain tile · Travertine beige",
+    "spec": "80×80 cm · matt · 1.28 m² per box",
+    "description": "Large-format travertine look for open-plan living areas.",
+    "price": "RWF 27,500",
+    "unit": "/ m²"
+  },
+  {
+    "id": "toilet-close-coupled",
+    "name": "Close-coupled toilet, soft-close seat",
+    "spec": "Dual flush 3/6 L · S-trap",
+    "description": "Complete toilet with cistern, fittings and a soft-close seat.",
+    "price": "RWF 145,000",
+    "unit": "/ piece"
+  },
+  {
+    "id": "toilet-wall-hung-set",
+    "name": "Wall-hung toilet with concealed cistern",
+    "spec": "Rimless pan · frame and flush plate included",
+    "description": "Space-saving wall-hung toilet that is easy to clean underneath.",
+    "price": "RWF 320,000",
+    "unit": "/ set"
+  },
+  {
+    "id": "basin-pedestal-55",
+    "name": "Pedestal wash basin",
+    "spec": "55 cm · vitreous china",
+    "description": "Classic basin with a full pedestal that hides the pipework.",
+    "price": "RWF 65,000",
+    "unit": "/ piece"
+  },
+  {
+    "id": "basin-countertop-42",
+    "name": "Countertop basin · Round",
+    "spec": "42 cm · white",
+    "description": "Round vessel basin for vanity tops.",
+    "price": "RWF 55,000",
+    "unit": "/ piece"
+  },
+  {
+    "id": "shower-rain-set",
+    "name": "Rain shower set with mixer",
+    "spec": "25 cm head + hand shower · chrome",
+    "description": "Thermostatic-style mixer with a rain head and a hand shower.",
+    "price": "RWF 135,000",
+    "unit": "/ set"
+  },
+  {
+    "id": "shower-enclosure-90",
+    "name": "Shower enclosure 90×90",
+    "spec": "6 mm tempered glass · sliding doors",
+    "description": "Corner enclosure with sliding doors and chrome profiles.",
+    "price": "RWF 260,000",
+    "unit": "/ piece"
+  },
+  {
+    "id": "shower-tray-90",
+    "name": "Shower tray 90×90",
+    "spec": "Low-profile · stone resin",
+    "description": "Slim, non-slip shower tray with waste.",
+    "price": "RWF 95,000",
+    "unit": "/ piece"
+  },
+  {
+    "id": "instant-water-heater",
+    "name": "Instant shower water heater",
+    "spec": "5.5 kW · with shower head",
+    "description": "Hot water on demand at a single shower.",
+    "price": "RWF 45,000",
+    "unit": "/ piece"
+  },
+  {
+    "id": "ppr-pipe-20",
+    "name": "PPR pipe 20 mm",
+    "spec": "PN20 · 4 m length",
+    "description": "Hot and cold water supply pipe for heat-fusion fittings.",
+    "price": "RWF 3,500",
+    "unit": "/ length"
+  },
+  {
+    "id": "pvc-drain-110",
+    "name": "PVC drain pipe 110 mm",
+    "spec": "3 m length",
+    "description": "Soil and waste pipe for toilets and drains.",
+    "price": "RWF 9,000",
+    "unit": "/ length"
+  },
+  {
+    "id": "kitchen-sink-mixer",
+    "name": "Kitchen sink mixer tap",
+    "spec": "Swivel spout · chrome",
+    "description": "Single-lever mixer with a high swivel spout.",
+    "price": "RWF 38,000",
+    "unit": "/ piece"
+  },
+  {
+    "id": "angle-valve-half",
+    "name": "Angle valve ½″",
+    "spec": "Chrome · for toilets and basins",
+    "description": "Isolating valve for toilet cisterns and basin taps.",
+    "price": "RWF 4,500",
+    "unit": "/ piece"
+  },
+  {
+    "id": "cement-42-5-50kg",
+    "name": "Portland cement 42.5R",
+    "spec": "50 kg bag",
+    "description": "General-purpose cement for concrete, blocks and screeds.",
+    "price": "RWF 12,500",
+    "unit": "/ bag"
+  },
+  {
+    "id": "tile-adhesive-c2te-25kg",
+    "name": "Tile adhesive C2TE",
+    "spec": "25 kg bag · for porcelain and large tiles",
+    "description": "Improved, slip-resistant adhesive for floors and walls.",
+    "price": "RWF 14,000",
+    "unit": "/ bag"
+  },
+  {
+    "id": "tile-grout-5kg",
+    "name": "Tile grout",
+    "spec": "5 kg · white, grey or beige",
+    "description": "Fine grout for joints up to 6 mm.",
+    "price": "RWF 6,500",
+    "unit": "/ bag"
+  },
+  {
+    "id": "tile-leveling-kit",
+    "name": "Tile leveling system",
+    "spec": "100 clips + 100 wedges",
+    "description": "Keeps large tiles flat and even while the adhesive sets.",
+    "price": "RWF 18,000",
+    "unit": "/ pack"
+  }
+]
